@@ -13,4 +13,4 @@ keystore.properties
 
 # Project exclude paths
 /backend/build/
-/frontend/build/
+/application/build/
