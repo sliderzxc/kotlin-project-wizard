@@ -11,7 +11,7 @@ import org.jetbrains.compose.web.css.vh
 
 @App
 @Composable
-fun MyApp(content: @Composable () -> Unit) {
+fun KotlinWizard(content: @Composable () -> Unit) {
     SilkApp {
         Surface(SmoothColorStyle.toModifier().minHeight(100.vh)) {
             content()
